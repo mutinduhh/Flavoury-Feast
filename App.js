@@ -1,5 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
 
 import { useEffect, useState } from 'react';
 import axios from 'axios';
